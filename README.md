@@ -10,8 +10,6 @@ This repository is organized into the following files:
 ## Project Overview
 Operational Analytics involves analyzing a company’s end-to-end operations to identify areas for improvement. A key aspect of this is investigating metric spikes—understanding and explaining sudden changes in key metrics like user engagement drops or sales fluctuations.
 
-As a Lead Data Analyst at a company like Microsoft, this project focuses on using **Advanced SQL** techniques to analyze datasets, derive insights, and provide valuable recommendations to different departments within the company.
-
 ---
 
 ## Tasks and SQL Analysis
