@@ -2,7 +2,7 @@
 
 ## Repository Structure
 This repository is organized into the following files:
-- **Datasets**: Contains two sample data files used for analysis.
+- **Datasets**: Contains data files with descriptions as their respective use case, used for analysis.
 - **Report**: Provides the final presentation/report summarizing findings and insights.
 
 ---
